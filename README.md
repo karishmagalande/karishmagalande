@@ -1,1 +1,1 @@
-👩🏻‍💻<h1>Karishma Galande</h1>
+<span style="font-size: 2.5em;">👩🏻‍💻</span> Karishma Galande
