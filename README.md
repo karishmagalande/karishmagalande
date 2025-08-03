@@ -1,1 +1,4 @@
-<span style="font-size: 2.5em;">👩🏻‍💻</span> Karishma Galande
+<span style="font-size: 6em;">👩🏻‍💻</span>
+<span style="font-family: 'Times New Roman', serif; font-size: 14px; font-weight: bold;">
+  Karishma Galande
+</span>
