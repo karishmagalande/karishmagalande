@@ -6,7 +6,3 @@
 
 <h3 align="center">Software Engineer | CS Graduate Student | Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
-</p>
-
