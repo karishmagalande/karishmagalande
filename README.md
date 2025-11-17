@@ -35,8 +35,6 @@ C#  |  .NET Core  |  ASP.NET MVC  |  ASP.NET Web API  |  SQL Server  |  JavaScri
 
 ---
 
----
-
 ## ✨ Fun Facts
 
 - ✈️ I love traveling as it keeps me curious, inspired, and open to new experiences.
@@ -52,9 +50,5 @@ C#  |  .NET Core  |  ASP.NET MVC  |  ASP.NET Web API  |  SQL Server  |  JavaScri
 
 ---
 
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/karishmagalande">Karishma Galande</a></i>
-</p>
+Thanks for stopping by! Feel free to explore my repositories 🚀
 
