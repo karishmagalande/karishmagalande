@@ -7,7 +7,7 @@
 ## 👩🏻‍💻 Karishma Galande
 Software Engineer  | Tech Enthusiast
 
-Hi there! I'm **Karishma**, a **Software Engineer** at **Bank of America** with **over 4 years of experience** developing secure and high-performing **.NET applications**. My work focuses on building reliable features, strengthening security for banking systems, and contributing to end-to-end application enhancements. I’m passionate about full-stack development and love exploring cybersecurity and AI/ML to create impactful, intelligent software.
+Hi there! I'm **Karishma**, a **Software Engineer** at **Bank of America** with **5 years of experience** full stack development, application modernization, cybersecurity implementation, developing secure and high-performing **.NET applications**. My work focuses on building reliable features, strengthening security for banking systems, and contributing to end-to-end application enhancements. I’m passionate about full-stack development and love exploring cybersecurity and AI/ML to create impactful, intelligent software.
 
 ---
 
